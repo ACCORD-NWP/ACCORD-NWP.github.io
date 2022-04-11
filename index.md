@@ -15,7 +15,8 @@ Configure your settings for a smooth Git connexion
 
 * go to your account _Settings_ > _Developer settings_ > _Personal access tokens_
 * _Generate new token_
+  (setting "repo" as scope, and with a reasonable expiry date)
 * set this token in any host .netrc file:
   `machine github.com login <your github userid> password <the generated token>`
-* in case you organisation is using a proxy, you need to tell Git to use it:
-  e.g. `export GIT_SSL_CAINFO=/usr/local/etc/proxy1.pem` in MF/CNRM
+* in case you organisation is using a proxy, you need to tell Git to use it: e.g. 
+  `export GIT_SSL_CAINFO=/usr/local/etc/proxy1.pem` in MF/CNRM
