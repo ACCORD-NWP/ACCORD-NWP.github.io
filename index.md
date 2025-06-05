@@ -1,10 +1,13 @@
+
+![logo](https://github.com/user-attachments/assets/b12da2cd-f3aa-4197-933c-1969724f96fd)
+
 ACCORD Forge documentation
 ==========================
 
 *everything remains to be written here...*
 
-Repositories documentation:
----------------------------
+Repositories documentation
+--------------------------
 * [DAVAÏ Users Guide](https://accord-nwp.github.io/DAVAI-env/stable/)
 * [ACCORD DA TOOLS](https://accord-nwp.github.io/AccordDaTools/dev/)
 
