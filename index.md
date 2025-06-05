@@ -3,6 +3,11 @@ ACCORD Forge documentation
 
 *everything remains to be written here...*
 
+Repositories documentation:
+---------------------------
+* [DAVAÏ Users Guide](https://accord-nwp.github.io/DAVAI-env/stable/)
+* [ACCORD DA TOOLS](https://accord-nwp.github.io/AccordDaTools/dev/)
+
 Join the organisation
 ---------------------
 
